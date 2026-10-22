@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/
+output/
+.env
+*.sqlite*
+verdicts.json
+coverage/
